@@ -1,0 +1,8 @@
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\bin\Debug\netcoreapp2.1\Exceltest.deps.json
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\bin\Debug\netcoreapp2.1\Exceltest.runtimeconfig.json
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\bin\Debug\netcoreapp2.1\Exceltest.runtimeconfig.dev.json
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\bin\Debug\netcoreapp2.1\Exceltest.dll
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\obj\Debug\netcoreapp2.1\Exceltest.csproj.CoreCompileInputs.cache
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\obj\Debug\netcoreapp2.1\Exceltest.AssemblyInfoInputs.cache
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\obj\Debug\netcoreapp2.1\Exceltest.AssemblyInfo.cs
+C:\Users\pk_bl\source\repos\Exceltest\Exceltest\obj\Debug\netcoreapp2.1\Exceltest.csprojAssemblyReference.cache
